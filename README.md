@@ -8,3 +8,6 @@
 * Variables and Datatypes
 * cerr and clog
 * Errors in C++
+* Operators in c++
+* Loops and Conditional
+* Jump Statement (continue/goto/return/break)
